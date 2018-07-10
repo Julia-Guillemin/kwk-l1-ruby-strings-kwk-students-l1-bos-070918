@@ -9,7 +9,7 @@ puts "what is the date of your parts?"
 date=gets.chomp
 
 puts "what time will your party be at?"
-time-gets.chomp
+time=gets.chomp
 
 puts "what is your name?"
 host_name=gets.chomp
