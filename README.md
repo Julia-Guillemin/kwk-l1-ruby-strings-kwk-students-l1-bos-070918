@@ -9,6 +9,13 @@ Your friend Harry Potter was very impressed with the invitations that you create
 * date
 * time
 * host_name
+guest_name=gets.chomped
+party_name=gets.chomped
+date=gets.chomped
+time-gets.chomped
+host_name=gets.chomped
+"Dear #{guest_name},
+
 
 ...and then prints out custom invitations that look something like this:
 
