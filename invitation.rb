@@ -16,4 +16,4 @@ host_name=gets.chomp
 
 
 puts "Dear #{guest_name}
-you have been invited to #{party_name} on #{date} at #{time} by #{host_name}
+you have been invited to #{party_name} on #{date} at #{time} by #{host_name}"
